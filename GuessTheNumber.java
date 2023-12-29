@@ -37,7 +37,7 @@ class Game {
     }
 }
 
-public class exercise_03 {
+public class GuessTheNumber {
     public static void main(String[] args) {
         Game gm = new Game();
         int guess = 1;
